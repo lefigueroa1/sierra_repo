@@ -1,2 +1,2 @@
 # sierra_repo
-Luigi test commmit Emoji: Sushi
+Luigi test commmit :sushi:
